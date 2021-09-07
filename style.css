@@ -1,0 +1,68 @@
+html {
+  background-color: #b2dff0;
+}
+
+body {
+  margin: 0%;
+}
+
+hr {
+  margin-bottom: 0.9%;
+  border: 0.1vw solid black;
+}
+
+.class1 {
+  position: relative;
+}
+
+#blob_img {
+  width: 15%;
+  position: absolute;
+}
+
+#bonk_right_img {
+  position: absolute;
+  width: 24%;
+  top: 20%;
+  right: 0%;
+}
+
+#bonk_left_img {
+  position: absolute;
+  width: 24%;
+  top: 20%;
+  right: 76.1%;
+}
+
+#small_img {
+  width: 53%;
+}
+
+#michael_img {
+  position: absolute;
+  width: 4.2%;
+  left: 49%;
+  bottom: 37.4%;
+}
+
+#lmao {
+  width: 2%;
+  margin: 0%;
+  margin-left: 2%;
+}
+
+#pepe_img {
+  width: 5.3%;
+  margin-left: 0.35%;
+  margin-bottom: 0.35%;
+  display: block;
+}
+
+#head1 {
+  font-family:'Courier New', Courier, monospace;
+  color: white;
+  -webkit-text-stroke: 1px black;
+  font-size: 410%;
+  margin-bottom: 1%;
+  text-align: center;
+}
